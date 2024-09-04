@@ -1,0 +1,33 @@
+body{
+    background-color: #B0EBB4   ;
+}
+section>div{
+    background-color: ;
+}
+.feature-icon-small {
+    width: 2rem;
+    height: 2rem;
+}
+.title-name{
+    letter-spacing: -.025em;
+}
+.nav-link {
+    transition: transform 0.3s ease; /* Smooth transition for movement */
+}
+
+.nav-link:hover {
+    transform: translateY(-5px); /* Move the item up by 5px on hover */
+}
+.trial:hover{
+    background-color: #BFF6C3;
+}
+
+.t li,.s{
+    background-color: #ACE1AF;
+}
+
+@media (max-width: 576px){
+    .u{
+        display: none;
+    }
+}
